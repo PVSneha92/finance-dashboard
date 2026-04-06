@@ -3,7 +3,7 @@ import { transactions as initialData } from "./data/mockData";
 
 import SummaryCard from "./components/SummaryCard";
 import Charts from "./components/Charts";
-import TransactionsTable from "./components/TransactionsTable.jsx"
+import TransactionsTable from "./components/TransactionsTable";
 import RoleSwitcher from "./components/RoleSwitcher";
 import Insights from "./components/Insights";
 
